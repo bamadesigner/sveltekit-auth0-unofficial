@@ -1,6 +1,6 @@
 {
 	"name": "sveltekit-auth0-unofficial",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "An unofficial Auth0 library for Svelte-Kit",
 	"main": "./lib/index.js",
 	"scripts": {
